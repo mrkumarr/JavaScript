@@ -1,0 +1,44 @@
+console.log("Operators In JS")
+let a = 10;
+let b = 4;
+//Arithemetic Operators In JavaScript (Bit Confusing after line 10)
+console.log("a+b=",a+b)
+console.log("a-b=",a-b)
+console.log("a*b=",a*b)
+console.log("a/b=",a/b)
+console.log("a**b=",a**b)
+console.log("a%b=",a%b)
+//Confusion start here ⬇
+console.log("++a=",++a)
+console.log("a++=",a++)
+console.log("--a=",--a)
+console.log("a--=",a--)
+console.log("a=",a)
+console.log("++a=",++a)
+//Assignment Operators
+let x = 10;
+x += 5;
+console.log("x is now =",x)
+x -= 5;
+console.log("x is now =",x)
+x *= 5;
+console.log("x is now =",x)
+x /= 5;
+console.log("x is now =",x)
+x %= 5;
+console.log("x is now =",x)
+//Comparison Operators
+let comp1= 4;
+let comp2 = 7;
+console.log("comp1==comp2 is",comp1==comp2)
+console.log("comp1!=comp2 is",comp1!=comp2)
+console.log("comp1===comp2 is",comp1===comp2)
+console.log("comp1!==comp2 is",comp1!==comp2)
+console.log("comp1>comp2 is",comp1>comp2)
+//Comparison Operators
+let j = 7;
+let k = 6;
+console.log(j>k && j==6)
+console.log(j<k || j==7)
+console.log(!true)
+console.log(!false)
