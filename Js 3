@@ -1,0 +1,15 @@
+console.log("JavaScript Tutorial 3 : var let constant");
+//var a=45;
+//var a = "p";
+let b = "harry";
+const author = "harry";
+author = 5;// Throw an error because constant never be change
+b=4
+const harry=0;
+let c = null;
+let d = undefined;
+{
+  let b = "this";
+  console.log(b)
+}
+console.log(b)
