@@ -1,0 +1,5 @@
+console.log("This is first javascript reple")
+let a=77;
+console.log(a)
+  a = "mrk";
+console.log(a)
