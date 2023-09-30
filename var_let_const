@@ -1,0 +1,2 @@
+console.log("JavaScript Tutorial 3: var_let_constant");
+let a=45;
