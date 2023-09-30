@@ -1,0 +1,29 @@
+//Chapter-1 :-> Question-1
+let a ="Harry"
+ let b = 6
+console.log(a+b)
+//Chapter-1 :-> Question-2
+
+console.log(typeof(a+b))
+
+//Chapter-1 :-> Question-3
+
+const a1 = {
+  name:"Mrk",
+  section:1,
+isprinciple: false,
+  }
+// a1 = 45
+//Chapter-1 :-> Question-4
+a1['friend']="radhika"
+a1['name']="krishna"
+console.log(a1)
+//Chapter-1 :-> Question-5
+const dict ={
+  eudemonia:"happiness; well-being",
+spumescent :"spumescent",
+pithy :"brief;forceful; meaningful in expression",
+bachata:"a contemporary genre of Latin American popular music, in the style of a ballad, featuring guitars, percussion, and singing.",
+receipts:"evidence or proof"
+}
+console.log(dict)
